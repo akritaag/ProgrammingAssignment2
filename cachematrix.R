@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## There are 2 functions in this program that aim to 
+## compute the inverse of an invertible matrix.
 
-## Write a short comment describing this function
+## This function provides functionality to compute the inverse of a matrix in the 
+## form of getinverse and setinverse functions.
 
 makeCacheMatrix <- function(x = matrix()) {
   print(x)
